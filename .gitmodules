@@ -1,0 +1,3 @@
+[submodule "siebtraegermaschine-api"]
+	path = siebtraegermaschine-api
+	url = https://github.com/LunasProjekts/siebtraegermaschine-api.git
